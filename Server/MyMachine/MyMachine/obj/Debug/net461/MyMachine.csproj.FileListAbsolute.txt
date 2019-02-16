@@ -1,0 +1,713 @@
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\MyMachine.exe.config
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\MyMachine.deps.json
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\MyMachine.exe
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\MyMachine.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\netfx.force.conflicts.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\netstandard.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.AppContext.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Collections.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Collections.Specialized.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.ComponentModel.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Console.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Data.Common.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Globalization.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.Compression.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.FileSystem.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.Pipes.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Linq.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Linq.Expressions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Linq.Parallel.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Linq.Queryable.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.Http.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.NameResolution.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.Ping.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.Requests.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.Security.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.Sockets.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.WebSockets.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.ObjectModel.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Reflection.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Resources.Reader.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Resources.Writer.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Handles.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Claims.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Principal.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.SecureString.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Text.Encoding.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.Tasks.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.Thread.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.Timer.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.ValueTuple.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Xml.XDocument.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Xml.XPath.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Options.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Win32.Registry.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\NuGet.Frameworks.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Remotion.Linq.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Buffers.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Collections.Immutable.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.ComponentModel.Annotations.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Composition.AttributedModel.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Composition.Convention.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Composition.Hosting.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Composition.Runtime.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Composition.TypedParts.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Data.SqlClient.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Interactive.Async.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.Pipelines.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Memory.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Numerics.Vectors.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Reflection.Metadata.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.AccessControl.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.Cng.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Permissions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Principal.Windows.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Text.Encodings.Web.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\netstandard.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.AppContext.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Collections.Concurrent.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Collections.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Collections.NonGeneric.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Collections.Specialized.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.ComponentModel.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.ComponentModel.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Console.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Data.Common.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.Contracts.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.Debug.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.Process.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.Tools.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.Tracing.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Drawing.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Dynamic.Runtime.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Globalization.Calendars.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Globalization.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Globalization.Extensions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.Compression.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.FileSystem.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.IsolatedStorage.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.Pipes.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Linq.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Linq.Expressions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Linq.Parallel.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Linq.Queryable.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.Http.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.NameResolution.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.NetworkInformation.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.Ping.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.Requests.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.Security.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.Sockets.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.WebSockets.Client.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.WebSockets.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.ObjectModel.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Reflection.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Reflection.Extensions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Reflection.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Resources.Reader.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Resources.ResourceManager.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Resources.Writer.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Extensions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Handles.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.InteropServices.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Numerics.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Claims.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Principal.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.SecureString.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Text.Encoding.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Text.RegularExpressions.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.Overlapped.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.Tasks.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.Thread.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.ThreadPool.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.Timer.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.ValueTuple.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Xml.ReaderWriter.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Xml.XDocument.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Xml.XmlDocument.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Xml.XmlSerializer.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Xml.XPath.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\BusinessLogic.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\DataAccessLayer.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\EntityFramework.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\EntityFramework.SqlServer.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Shared.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\SqlBackendEf.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\BusinessLogic.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Shared.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\DataAccessLayer.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\SqlBackendEf.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\SqlBackendEf.dll.config
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.csprojAssemblyReference.cache
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.exe.config
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.csproj.CoreCompileInputs.cache
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.RazorAssemblyInfo.cache
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.RazorAssemblyInfo.cs
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.AssemblyInfoInputs.cache
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.AssemblyInfo.cs
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.RazorTargetAssemblyInfo.cache
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.csproj.CopyComplete
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.exe
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.IdentityModel.Logging.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\MyMachine\bin\Debug\net461\System.IdentityModel.Tokens.Jwt.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\MyMachine.exe.config
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\MyMachine.deps.json
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\MyMachine.exe
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\MyMachine.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\netfx.force.conflicts.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\netstandard.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.AppContext.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Collections.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Collections.Specialized.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.ComponentModel.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Console.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Data.Common.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Globalization.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.Compression.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.FileSystem.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.Pipes.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Linq.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Linq.Expressions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Linq.Parallel.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Linq.Queryable.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.Http.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.NameResolution.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.Ping.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.Requests.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.Security.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.Sockets.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Net.WebSockets.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.ObjectModel.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Reflection.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Resources.Reader.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Resources.Writer.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Handles.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Claims.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.Principal.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Security.SecureString.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Text.Encoding.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.Tasks.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.Thread.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Threading.Timer.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.ValueTuple.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Xml.XDocument.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Xml.XPath.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.HostFiltering.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.EntityFrameworkCore.Design.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Options.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.IdentityModel.Logging.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.IdentityModel.Tokens.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\dotnet-aspnet-codegenerator-design.exe
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Win32.Registry.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Newtonsoft.Json.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\NuGet.Frameworks.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Remotion.Linq.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Buffers.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Collections.Immutable.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.ComponentModel.Annotations.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Composition.AttributedModel.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Composition.Convention.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Composition.Hosting.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Composition.Runtime.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Composition.TypedParts.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Data.SqlClient.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.IdentityModel.Tokens.Jwt.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Interactive.Async.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.Pipelines.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Memory.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Numerics.Vectors.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Reflection.Metadata.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.AccessControl.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.Cng.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Permissions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Principal.Windows.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Text.Encodings.Web.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\netstandard.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.AppContext.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Collections.Concurrent.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Collections.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Collections.NonGeneric.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Collections.Specialized.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.ComponentModel.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.ComponentModel.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Console.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Data.Common.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.Contracts.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.Debug.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.Process.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.Tools.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Diagnostics.Tracing.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Drawing.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Dynamic.Runtime.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Globalization.Calendars.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Globalization.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Globalization.Extensions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.Compression.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.FileSystem.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.IsolatedStorage.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.Pipes.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Linq.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Linq.Expressions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Linq.Parallel.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Linq.Queryable.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.Http.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.NameResolution.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.NetworkInformation.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.Ping.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.Requests.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.Security.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.Sockets.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.WebSockets.Client.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Net.WebSockets.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.ObjectModel.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Reflection.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Reflection.Extensions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Reflection.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Resources.Reader.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Resources.ResourceManager.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Resources.Writer.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Extensions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Handles.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.InteropServices.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Numerics.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Claims.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.Principal.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Security.SecureString.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Text.Encoding.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Text.RegularExpressions.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.Overlapped.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.Tasks.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.Thread.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.ThreadPool.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Threading.Timer.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.ValueTuple.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Xml.ReaderWriter.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Xml.XDocument.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Xml.XmlDocument.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Xml.XmlSerializer.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Xml.XPath.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\BusinessLogic.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\DataAccessLayer.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\EntityFramework.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\EntityFramework.SqlServer.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Shared.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\SqlBackendEf.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\BusinessLogic.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\Shared.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\DataAccessLayer.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\SqlBackendEf.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\SqlBackendEf.dll.config
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.csprojAssemblyReference.cache
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.exe.config
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.csproj.CoreCompileInputs.cache
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.RazorAssemblyInfo.cache
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.RazorAssemblyInfo.cs
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.AssemblyInfoInputs.cache
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.AssemblyInfo.cs
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.RazorTargetAssemblyInfo.cache
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.csproj.CopyComplete
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.exe
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\obj\Debug\net461\MyMachine.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\MyMachine\bin\Debug\net461\BusinessLogic.dll.config

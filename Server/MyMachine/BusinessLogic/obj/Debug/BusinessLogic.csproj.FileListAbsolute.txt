@@ -1,0 +1,62 @@
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\DataAccessLayer.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\Shared.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\SqlBackendEf.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\Shared.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\SqlBackendEf.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\SqlBackendEf.dll.config
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\DataAccessLayer.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\Shared.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\SqlBackendEf.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\Shared.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\SqlBackendEf.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\SqlBackendEf.dll.config
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml

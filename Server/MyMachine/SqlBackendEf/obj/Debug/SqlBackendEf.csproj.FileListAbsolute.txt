@@ -1,0 +1,38 @@
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\SqlBackendEf\bin\Debug\SqlBackendEf.dll.config
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\SqlBackendEf\bin\Debug\SqlBackendEf.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\SqlBackendEf\bin\Debug\SqlBackendEf.pdb
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\SqlBackendEf\bin\Debug\EntityFramework.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\SqlBackendEf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\SqlBackendEf\bin\Debug\EntityFramework.xml
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\SqlBackendEf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\SqlBackendEf\obj\Debug\SqlBackendEf.csprojAssemblyReference.cache
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\SqlBackendEf\obj\Debug\SqlBackendEf.csproj.CoreCompileInputs.cache
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\SqlBackendEf\obj\Debug\SqlBackendEf.csproj.CopyComplete
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\SqlBackendEf\obj\Debug\SqlBackendEf.dll
+C:\Users\ppedv\Documents\Visual Studio 2017\Projects\Server\MyMachine\SqlBackendEf\obj\Debug\SqlBackendEf.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\SqlBackendEf.dll.config
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\SqlBackendEf.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\SqlBackendEf.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\EntityFramework.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\EntityFramework.SqlServer.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\EntityFramework.xml
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\EntityFramework.SqlServer.xml
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\obj\Debug\SqlBackendEf.csprojAssemblyReference.cache
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\obj\Debug\SqlBackendEf.csproj.CoreCompileInputs.cache
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\obj\Debug\SqlBackendEf.csproj.CopyComplete
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\obj\Debug\SqlBackendEf.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\obj\Debug\SqlBackendEf.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\Newtonsoft.Json.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\Newtonsoft.Json.xml
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\Google Drive\Kurse\ASP.Core & Angular Kurs\Server\MyMachine\SqlBackendEf\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
